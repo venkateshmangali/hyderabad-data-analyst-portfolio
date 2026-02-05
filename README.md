@@ -43,5 +43,5 @@ I've prepared an interactive dashboard that identifies specific corridors and ti
 Hyderabad has made progress, but strategic, data-driven action can save more lives.
 
 Sincerely,
-[Your Name]
+[Mangali venkatesh]
 Data Analyst
