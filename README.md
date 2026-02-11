@@ -25,7 +25,7 @@ A 90-day intensive learning path to transition into a Data Analyst role through 
 **Objective:** Analyze 10 years of accident data to provide actionable insights for traffic safety improvement.
 
 **Power BI Dashboard Preview:**
-![Power BI Dashboard](https://github.com/venkateshmangali/hyderabad-data-analyst-portfolio/blob/main/Screenshot_Safety_Scorecard.png)
+![Power BI Dashboard](Screenshot_2026-02-11_134157.png)
 
 **Key Findings:**
 - **Consolidated 5-page interactive dashboard** with bookmark navigation
